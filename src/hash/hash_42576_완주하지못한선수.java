@@ -2,7 +2,7 @@ package hash;
 
 import java.util.HashMap;
 
-public class finishplayer {
+public class hash_42576_완주하지못한선수 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

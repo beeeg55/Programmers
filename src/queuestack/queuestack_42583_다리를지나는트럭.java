@@ -3,7 +3,7 @@ package queuestack;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class bridge {
+public class queuestack_42583_다리를지나는트럭 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -17,10 +17,7 @@ public class bridge {
 		 	int answer = 0;
 		 	int i = 0;
 		 	int w = 0;
-		 	//int answer = 1;
-		 	//int i = 1;
-		 	//qu.add(truck_weights[0]);
-		 	//int w = truck_weights[0];
+		 	
 		 	while(true){
 		 		if(qu.size()==bridge_length){
 		 			w -= qu.poll();

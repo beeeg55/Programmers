@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class printer {
+public class queuestack_42587_«¡∏∞≈Õ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -29,7 +29,6 @@ public class printer {
             	}else{
             		location--;
             	}
-            	System.out.println(location);
             	q.add(q.poll());
             }
             q.poll();

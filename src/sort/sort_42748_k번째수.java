@@ -1,7 +1,7 @@
 package sort;
 import java.util.Arrays;
 
-public class kthnumber {
+public class sort_42748_k¹øÂ°¼ö {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

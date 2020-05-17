@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class functionDevelopment {
+public class queuestack_42586_기능개발 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -34,7 +34,7 @@ public class functionDevelopment {
             	//System.out.println(num+" "+day);
             	day++;
         	}
-        	System.out.println(day+"------------");
+        	//System.out.println(day+"------------");
         	q.poll();
         	i++;
         	count++;

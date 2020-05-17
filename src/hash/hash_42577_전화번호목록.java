@@ -1,6 +1,6 @@
 package hash;
 
-public class phonenumber {
+public class hash_42577_전화번호목록 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

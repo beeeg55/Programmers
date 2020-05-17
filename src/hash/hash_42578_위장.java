@@ -2,7 +2,7 @@ package hash;
 
 import java.util.HashMap;
 
-public class decorate {
+public class hash_42578_¿ß¿Â {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

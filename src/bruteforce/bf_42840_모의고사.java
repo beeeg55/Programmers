@@ -2,7 +2,7 @@ package bruteforce;
 
 import java.util.ArrayList;
 
-public class test {
+public class bf_42840_모의고사 {
 	public static void main(String[] args) {
 		int[] a = {1,2,3,4,5};
 		int[] arr = solution(a);
