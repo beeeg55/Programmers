@@ -1,6 +1,6 @@
-package queuestack;
+package 연습문제;
 
-public class queuestack_42584_주식가격 {
+public class p_42584_주식가격 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
